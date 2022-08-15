@@ -4,7 +4,7 @@ body{
     background: white;
 }
 .schedule-pic{
-    width: 100px
+    display: flex;
     
 }
 div{
