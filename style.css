@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    flex-direction: column;
+    background: white;
+}
+.schedule-pic{
+    width: 100px
+    
+}
+div{
+    display: flex;
+    flex-direction: column;
+    padding: 1px;
+    margin-bottom: 15px;
+}
+.ENGR-1110{
+    background-color: rgb(233, 107, 128);
+}
+.COMP-1210{
+    background-color: rgb(88, 159, 240);
+}
+.PHYS-1610{
+    background-color: rgb(159, 103, 182);
+}
+.STAT-3010{
+    background-color: rgb(223, 163, 53);
+}
+.ENGR-1100{
+    background-color:  rgb(102, 180, 102);
+}
+.ARCH-2600{
+    background-color: rgb(143, 115, 62);
+}
